@@ -54,6 +54,8 @@ body {
     background-position: 50% 50%;
     background-size: contain;
     left: 14px;
+    cursor: pointer;
+    z-index: 1;
 }
 
 .profile {
